@@ -1,0 +1,305 @@
+{
+ "official/creative/auteur": {
+  "files": [
+   [
+    "LICENSE",
+    "file",
+    1372
+   ],
+   [
+    "SKILL.md",
+    "file",
+    22780
+   ],
+   [
+    "references",
+    "dir",
+    0
+   ],
+   [
+    "scripts",
+    "dir",
+    0
+   ],
+   [
+    "templates",
+    "dir",
+    0
+   ]
+  ],
+  "hits": []
+ },
+ "official/creative/impeccable": {
+  "files": [
+   [
+    "SKILL.md",
+    "file",
+    1549
+   ]
+  ],
+  "hits": [
+   "HOST EXTERNO NO HABITUAL :: https://impeccable.style"
+  ]
+ },
+ "official/web-development/publish-site": {
+  "files": [
+   [
+    "SKILL.md",
+    "file",
+    8642
+   ]
+  ],
+  "hits": [
+   "HOST EXTERNO NO HABITUAL :: http://localhost"
+  ]
+ },
+ "official/web-development/cloudflare-temporary-deploy": {
+  "files": [
+   [
+    "SKILL.md",
+    "file",
+    7459
+   ],
+   [
+    "scripts",
+    "dir",
+    0
+   ]
+  ],
+  "hits": []
+ },
+ "official/productivity/live-dashboard": {
+  "files": [
+   [
+    "SKILL.md",
+    "file",
+    8336
+   ]
+  ],
+  "hits": []
+ },
+ "anthropics/skills/skills/frontend-design": {
+  "files": [
+   [
+    "LICENSE.txt",
+    "file",
+    10174
+   ],
+   [
+    "SKILL.md",
+    "file",
+    9390
+   ]
+  ],
+  "hits": []
+ },
+ "anthropics/skills/skills/web-artifacts-builder": {
+  "files": [
+   [
+    "LICENSE.txt",
+    "file",
+    11345
+   ],
+   [
+    "SKILL.md",
+    "file",
+    3087
+   ],
+   [
+    "scripts",
+    "dir",
+    0
+   ]
+  ],
+  "hits": [
+   "HOST EXTERNO NO HABITUAL :: https://ui.shadcn.com"
+  ]
+ },
+ "anthropics/skills/skills/webapp-testing": {
+  "files": [
+   [
+    "LICENSE.txt",
+    "file",
+    11345
+   ],
+   [
+    "SKILL.md",
+    "file",
+    3913
+   ],
+   [
+    "examples",
+    "dir",
+    0
+   ],
+   [
+    "scripts",
+    "dir",
+    0
+   ]
+  ],
+  "hits": [
+   "HOST EXTERNO NO HABITUAL :: http://localhost"
+  ]
+ },
+ "anthropics/skills/skills/theme-factory": {
+  "files": [
+   [
+    "LICENSE.txt",
+    "file",
+    11345
+   ],
+   [
+    "SKILL.md",
+    "file",
+    3124
+   ],
+   [
+    "theme-showcase.pdf",
+    "file",
+    124310
+   ],
+   [
+    "themes",
+    "dir",
+    0
+   ]
+  ],
+  "hits": []
+ },
+ "openai/skills/skills/.curated/vercel-deploy": {
+  "files": [
+   [
+    "LICENSE.txt",
+    "file",
+    1063
+   ],
+   [
+    "SKILL.md",
+    "file",
+    2653
+   ],
+   [
+    "agents",
+    "dir",
+    0
+   ],
+   [
+    "assets",
+    "dir",
+    0
+   ],
+   [
+    "scripts",
+    "dir",
+    0
+   ]
+  ],
+  "hits": []
+ },
+ "openai/skills/skills/.curated/netlify-deploy": {
+  "files": [
+   [
+    "LICENSE.txt",
+    "file",
+    10776
+   ],
+   [
+    "SKILL.md",
+    "file",
+    7011
+   ],
+   [
+    "agents",
+    "dir",
+    0
+   ],
+   [
+    "assets",
+    "dir",
+    0
+   ],
+   [
+    "references",
+    "dir",
+    0
+   ]
+  ],
+  "hits": [
+   "LECTURA DE ENV (script) :: process.env.VARIABLE_NAME",
+   "HOST EXTERNO NO HABITUAL :: https://app.netlify.com"
+  ]
+ },
+ "openai/skills/skills/.curated/cloudflare-deploy": {
+  "files": [
+   [
+    "LICENSE.txt",
+    "file",
+    10776
+   ],
+   [
+    "SKILL.md",
+    "file",
+    7377
+   ],
+   [
+    "agents",
+    "dir",
+    0
+   ],
+   [
+    "assets",
+    "dir",
+    0
+   ],
+   [
+    "references",
+    "dir",
+    0
+   ]
+  ],
+  "hits": []
+ },
+ "openai/skills/skills/.curated/playwright": {
+  "files": [
+   [
+    "LICENSE.txt",
+    "file",
+    11552
+   ],
+   [
+    "NOTICE.txt",
+    "file",
+    403
+   ],
+   [
+    "SKILL.md",
+    "file",
+    3771
+   ],
+   [
+    "agents",
+    "dir",
+    0
+   ],
+   [
+    "assets",
+    "dir",
+    0
+   ],
+   [
+    "references",
+    "dir",
+    0
+   ],
+   [
+    "scripts",
+    "dir",
+    0
+   ]
+  ],
+  "hits": [
+   "HOST EXTERNO NO HABITUAL :: https://playwright.dev"
+  ]
+ }
+}
